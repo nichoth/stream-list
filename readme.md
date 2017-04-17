@@ -15,7 +15,7 @@ A list of streams for javascript.
   * **8.97 KB** minified (not gzipped)
 
 * rxjs
-  * implements the "observable" spec proposed for jsavascript
+  * implements the "observable" spec proposed for javascript
   * modular structure (you can choose which parts to import)
   * "core" library is **15.1 KB** minified (not gzipped)
 
