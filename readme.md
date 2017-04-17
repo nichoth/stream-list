@@ -25,13 +25,3 @@ A list of streams for javascript.
   * modular structure (require what you need)
   * core library with all operators is 7.7 KB browserified and minified (not gzipped)
 
--------------------------
-
-## domain specific streams
-
-* kafka-streams
-  * a client for kafka that uses most
-
-
-
-
