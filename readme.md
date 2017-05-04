@@ -20,7 +20,7 @@ A list of streams for javascript.
   * "core" library is **15.1 KB** minified (not gzipped)
 
 * [pull-stream](https://github.com/pull-stream/pull-stream)
-  * backpressue
+  * backpressure
   * ES5 (luddite compatible)
   * modular structure (require what you need)
   * core library with all operators is **7.7 KB** browserified and minified (not gzipped)
