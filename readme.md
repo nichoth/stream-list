@@ -25,3 +25,8 @@ A list of streams for javascript.
   * modular structure (require what you need)
   * core library with all operators is **7.7 KB** browserified and minified (not gzipped)
 
+* [fluture](https://github.com/fluture-js/Fluture)
+  * it's meant for functional programming patterns
+  * implements fantasy land monad, functor
+  * **52 KB** minified (not gzipped)
+
