@@ -30,3 +30,11 @@ A list of streams for javascript.
   * implements fantasy land monad, functor
   * **52 KB** minified (not gzipped)
 
+* [xstream](https://github.com/staltz/xstream)
+  * Only 26 core operators and factories
+  * Only "hot" streams
+  * Written in TypeScript
+  * Approximately 30 kB in size, when minified
+  * On average, faster than RxJS 4, Kefir, Bacon.js, as fast as RxJS 5, and slower than most.js
+  * Tailored for Cycle.js, or applications with limited use of subscribe
+
